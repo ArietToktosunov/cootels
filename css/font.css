@@ -1,0 +1,51 @@
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../css/font.css');
+    src: url('../css/font.css?#iefix') format('embedded-opentype'),
+        url('../css/font.cssMontserrat-Medium.woff2') format('woff2'),
+        url('../css/font.cssMontserrat-Medium.woff') format('woff'),
+        url('../css/font.cssMontserrat-Medium.ttf') format('truetype'),
+        url('../css/font.cssMontserrat-Medium.svg#Montserrat-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../css/font.cssMontserrat-Regular.eot');
+    src: url('../css/font.cssMontserrat-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../css/font.cssMontserrat-Regular.woff2') format('woff2'),
+        url('../css/font.cssMontserrat-Regular.woff') format('woff'),
+        url('../css/font.cssMontserrat-Regular.ttf') format('truetype'),
+        url('../css/font.cssMontserrat-Regular.svg#Montserrat-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../css/font.cssMontserrat-SemiBold.eot');
+    src: url('../css/font.cssMontserrat-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('../css/font.cssMontserrat-SemiBold.woff2') format('woff2'),
+        url('../css/font.cssMontserrat-SemiBold.woff') format('woff'),
+        url('../css/font.cssMontserrat-SemiBold.ttf') format('truetype'),
+        url('../css/font.cssMontserrat-SemiBold.svg#Montserrat-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Inter 18pt';
+    src: url('../css/font.css');
+    src: url('../css/font.css?#iefix') format('embedded-opentype'),
+        url('../css/font.cssInter18pt-Medium.woff2') format('woff2'),
+        url('../css/font.cssInter18pt-Medium.woff') format('woff'),
+        url('../css/font.cssInter18pt-Medium.ttf') format('truetype'),
+        url('../css/font.cssInter18pt-Medium.svg#Inter18pt-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
